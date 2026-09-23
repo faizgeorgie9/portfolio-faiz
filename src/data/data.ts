@@ -9,6 +9,17 @@ export const NAV_LINKS = [
 
 export const EXPERIENCES = [
   {
+    date: 'Aug 2026 - Present',
+    company: 'LLC AI Top Trends',
+    type: 'AI Developer Intern',
+    title: 'AI Developer Intern',
+    bullets: [
+      'Engineered an automated multi-platform social media ingestion pipeline (Playwright, curl_cffi, SQLite) intercepting raw GraphQL/XHR streams across X, Instagram, Threads, and TikTok with anti-bot evasion and session persistence.',
+      'Built an end-to-end multimodal NLP pipeline for 11-class emotion extraction, sentiment analysis, and viral velocity scoring, processing multi-source engagement data to identify high-performing content patterns.',
+      'Developed an automated Generative AI media creation workflow integrating LiteLLM batch prompt orchestration with ComfyUI to generate high-resolution image assets and AnimateDiff video outputs.',
+    ],
+  },
+  {
     date: 'Feb 2026 - Jun 2026',
     company: 'PT Warna Warni Media',
     type: 'AI Engineer Intern',
